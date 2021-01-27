@@ -1,3 +1,3 @@
 Chi Chow
 
-cschow@ucsd.edu4
+cschow@ucsd.edu
