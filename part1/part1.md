@@ -6,10 +6,10 @@
 6. "Error, no such variable" because "discountedPrice" is only visible inside the for loop.
 7. The final price of the last discounted item will be printed. This is because the for loop assigns the discounted price of the item to the variable "finalPrice", and when the for loop is completed "finalPrice" will have the final price of the last item.
 8. The function will return [50, 100, 150]. This is beacuse the for loop iterates through each item in the list of prices, and applies a discount of 0.5.
-9. ?
-10. ?
-11. ?
-12. ?
+9. "Error, no such variable" beacuse "i" is only visible inside the for loop.
+10. "Error, no such variable" because "discountedPrice" is only visible inside the for loop.
+11. 0 will be printed, because changing the value of "finalPrice" is not possible, so the value stays at 0.
+12. The function will return [0, 0, 0]. This is because "finalPrice" is always 0, and the value 0 is added to the array in each iteration of the loop.
 13. A) student.name
 
     B) student["Grad Year"]
